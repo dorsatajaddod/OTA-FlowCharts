@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     subgraph Input_Data
         A[اهداف بازاریابی OTA] --> B;
