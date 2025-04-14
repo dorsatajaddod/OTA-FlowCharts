@@ -76,7 +76,6 @@ graph TD
         YY --> ZZZ[اندازه‌گیری ROI و تأثیر بر اهداف کسب‌وکار];
     end
 
-    // Main Flow Connections
     A --> B;
     C --> L & M;
     D --> I & P;
@@ -89,5 +88,4 @@ graph TD
     KK --> Q;
     LL --> R;
 
-    // Final Output
     YY --> AAA[بهبود مداوم استراتژی بازاریابی دیجیتال];
